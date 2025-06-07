@@ -1,0 +1,2 @@
+# REAL-TIME-RISK-ALERT-SYSTEM-FOR-OLIGURIC-DIALYSIS-PATIENTS-USING-ARDUINO
+The Real-Time Risk Alert System for Oliguric Dialysis Patients Using Arduino monitors vital signs like temperature, heartbeat, and pressure in patients with low urine output. It provides real-time data and sends instant alerts via GSM if abnormal values are detected, ensuring quick medical attention and enhancing patient safety.
